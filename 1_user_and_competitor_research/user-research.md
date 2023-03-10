@@ -18,61 +18,61 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – spending lots of money 
 - Needs/ Goals – Easy and effective
 
-Person 2 : Name – Steve Moore 
-Age – 40 
-Occupation – Business Analyst 
-Quote – Fun and games
-Likes – Exercise 
-Dislikes – Coconut 
-Needs/ Goals – Feel young
+- Person 2 : Name – Steve Moore 
+- Age – 40 
+- Occupation – Business Analyst 
+- Quote – Fun and games
+- Likes – Exercise 
+- Dislikes – Coconut 
+- Needs/ Goals – Feel young
 
-Person 3 : Name – Katie Drake 
-Age – 20 
-Occupation – Soacial Media Consultant 
-Quote – Happy life
-Likes – Movies 
-Dislikes – Running 
-Needs/ Goals – Quick and simple
+- Person 3 : Name – Katie Drake 
+- Age – 20 
+- Occupation – Soacial Media Consultant 
+- Quote – Happy life
+- Likes – Movies 
+- Dislikes – Running 
+- Needs/ Goals – Quick and simple
 
-Person 4 : Name – Lizzie Iveson 
-Age – 28 
-Occupation – Product Manager 
-Quote – Women in Technology
-Likes – Crossfit 
-Dislikes – Chickens 
-Needs/ Goals – Gluten Free
+- Person 4 : Name – Lizzie Iveson 
+- Age – 28 
+- Occupation – Product Manager 
+- Quote – Women in Technology
+- Likes – Crossfit 
+- Dislikes – Chickens 
+- Needs/ Goals – Gluten Free
 
-Person 5 : Name – Joey Webbon 
-Age – 22 
-Occupation – Electrician 
-Quote – Dedicated to work
-Likes – Gym and Football 
-Dislikes – Cats 
-Needs/ Goals – Gaining Muscle
+- Person 5 : Name – Joey Webbon 
+- Age – 22 
+- Occupation – Electrician 
+- Quote – Dedicated to work
+- Likes – Gym and Football 
+- Dislikes – Cats 
+- Needs/ Goals – Gaining Muscle
 
-Person 6 : Name – Brian Lucci 
-Age – 59 
-Occupation – Technical Surveyor Manager
-Quote – Dad of 1 newborn
-Likes – Cheese 
-Dislikes – Going to the gym 
-Needs/ Goals – Lose fat
+- Person 6 : Name – Brian Lucci 
+- Age – 59 
+- Occupation – Technical Surveyor Manager
+- Quote – Dad of 1 newborn
+- Likes – Cheese 
+- Dislikes – Going to the gym 
+- Needs/ Goals – Lose fat
 
-Person 7 : Name – Louisa Lovelace 
-Age – 35 
-Occupation – Procurement Officer
-Quote – Mum of 3 
-Likes – Running 
-Dislikes – Being late 
-Needs/ Goals – Tone up
+- Person 7 : Name – Louisa Lovelace 
+- Age – 35 
+- Occupation – Procurement Officer
+- Quote – Mum of 3 
+- Likes – Running 
+- Dislikes – Being late 
+- Needs/ Goals – Tone up
 
-Person 8 : Name – Dave Sumner 
-Age – 48 
-Occupation – Project Manager 
-Quote – Very Busy
-Likes – Chocolate 
-Dislikes – Driving long distance
-Needs/ Goals – Quick exercise
+- Person 8 : Name – Dave Sumner 
+- Age – 48 
+- Occupation – Project Manager 
+- Quote – Very Busy
+- Likes – Chocolate 
+- Dislikes – Driving long distance
+- Needs/ Goals – Quick exercise
 
 ---
 
