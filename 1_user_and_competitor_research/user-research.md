@@ -4,7 +4,7 @@
 
 **Word count** provide a summary (300 word maximum) of your findings.
 
-People of all ages have a reason to look into their health and fitness, for varied reasons, no two people are the same, no two journey's are the same.
+People of all ages have a reason to look into their health and fitness, for varied reasons, no two people are the same, no two journey's are the same. Sports and fitness can be taken up at any age of any profile below. All users have the capacity to make small changes (small steps) to their daily routine to achieve their needs and goals. The users below all fit the criteria of what our website will produce, and the content will hopefully answer the questions the users have in their needs and goals - such as easy ways to work out, gluten free food, and losing fat. 
 
 ---
 
