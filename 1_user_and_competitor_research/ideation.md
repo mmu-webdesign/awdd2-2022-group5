@@ -24,6 +24,7 @@ These topics would be updated on a frequent basis to provide new content in the 
 This website would open up the topic of health and explore how everyone on their health journey can continue to improve and reach their goals. Sub-categories of the website would include:physical health & exercise; mental health & wellbeing; diet & eating habits and social Factors.
 Another section of the website would be a blog-formatted promotional piece, where advice from medical care to fitness watches can be recommended depending on what’s currently on the market. This could also be used to generate revenue as we could allow businesses to pay a fee for their product to be features on this site, which affiliate links and discount codes also available.
 
+<img src="sp1-media/Mind-Map.jpg" alt="Storyboard Two" width="1000">
 - 
 
 Put your media in the `sp1-media` folder.
