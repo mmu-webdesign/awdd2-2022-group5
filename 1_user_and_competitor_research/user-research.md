@@ -10,13 +10,13 @@ People of all ages have a reason to look into their health and fitness, for vari
 
 ## Profiles
 
-Person 1: Name – Emilly Bailey 
-Age – 18 
-Occupation – Student 
-Quote – Simple and straightforward 
-Likes – Exercise 
-Dislikes – spending lots of money 
-Needs/ Goals – Easy and effective
+- Person 1: Name – Emilly Bailey 
+- Age – 18 
+- Occupation – Student 
+- Quote – Simple and straightforward 
+- Likes – Exercise 
+- Dislikes – spending lots of money 
+- Needs/ Goals – Easy and effective
 
 Person 2 : Name – Steve Moore 
 Age – 40 
