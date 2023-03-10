@@ -10,7 +10,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 
 ## Profiles
 
-- Person 1: Name – Emilly Bailey 
+Person 1: Name – Emilly Bailey 
 - Age – 18 
 - Occupation – Student 
 - Quote – Simple and straightforward 
@@ -18,7 +18,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – spending lots of money 
 - Needs/ Goals – Easy and effective
 
-- Person 2 : Name – Steve Moore 
+Person 2 : Name – Steve Moore 
 - Age – 40 
 - Occupation – Business Analyst 
 - Quote – Fun and games
@@ -26,7 +26,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Coconut 
 - Needs/ Goals – Feel young
 
-- Person 3 : Name – Katie Drake 
+Person 3 : Name – Katie Drake 
 - Age – 20 
 - Occupation – Soacial Media Consultant 
 - Quote – Happy life
@@ -34,7 +34,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Running 
 - Needs/ Goals – Quick and simple
 
-- Person 4 : Name – Lizzie Iveson 
+Person 4 : Name – Lizzie Iveson 
 - Age – 28 
 - Occupation – Product Manager 
 - Quote – Women in Technology
@@ -42,7 +42,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Chickens 
 - Needs/ Goals – Gluten Free
 
-- Person 5 : Name – Joey Webbon 
+Person 5 : Name – Joey Webbon 
 - Age – 22 
 - Occupation – Electrician 
 - Quote – Dedicated to work
@@ -50,7 +50,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Cats 
 - Needs/ Goals – Gaining Muscle
 
-- Person 6 : Name – Brian Lucci 
+Person 6 : Name – Brian Lucci 
 - Age – 59 
 - Occupation – Technical Surveyor Manager
 - Quote – Dad of 1 newborn
@@ -58,7 +58,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Going to the gym 
 - Needs/ Goals – Lose fat
 
-- Person 7 : Name – Louisa Lovelace 
+Person 7 : Name – Louisa Lovelace 
 - Age – 35 
 - Occupation – Procurement Officer
 - Quote – Mum of 3 
@@ -66,7 +66,7 @@ People of all ages have a reason to look into their health and fitness, for vari
 - Dislikes – Being late 
 - Needs/ Goals – Tone up
 
-- Person 8 : Name – Dave Sumner 
+Person 8 : Name – Dave Sumner 
 - Age – 48 
 - Occupation – Project Manager 
 - Quote – Very Busy
