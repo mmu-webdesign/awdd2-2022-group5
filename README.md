@@ -6,10 +6,10 @@
 
 ### Team members
 
-- Imogen Calderbank, [email address](imogen.calderbank@stu.mmu.ac.uk)
-- Liam Stanier, [email address](liam.stanier@stu.mmu.ac.uk
-- Niamh Bailey, [email address](niamh.bailey@stu.mmu.ac.uk)
-- Sophie Norbury, [email address](sophie.l.norbury@stu.mmu.ac.uk)
+- Imogen Calderbank, imogen.calderbank@stu.mmu.ac.uk
+- Liam Stanier, liam.stanier@stu.mmu.ac.uk
+- Niamh Bailey, niamh.bailey@stu.mmu.ac.uk
+- Sophie Norbury, sophie.l.norbury@stu.mmu.ac.uk
 
 ## TL;DR Assessment overview
 
