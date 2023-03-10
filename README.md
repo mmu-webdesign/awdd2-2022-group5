@@ -6,11 +6,10 @@
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Imogen Calderbank, [email address](imogen.calderbank@stu.mmu.ac.uk)
+- Liam Stanier, [email address](liam.stanier@stu.mmu.ac.uk
+- Niamh Bailey, [email address](niamh.bailey@stu.mmu.ac.uk)
+- Sophie Norbury, [email address](sophie.l.norbury@stu.mmu.ac.uk)
 
 ## TL;DR Assessment overview
 
