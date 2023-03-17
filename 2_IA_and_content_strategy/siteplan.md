@@ -2,7 +2,6 @@
 
 Add your initial site plan for SP2, and any further revisions for SP5. Include commentary.
 
-*Tutors will download the image to view the full size persona*.
 
 ## Original Site Plan
 
