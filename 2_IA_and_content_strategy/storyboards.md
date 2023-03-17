@@ -1,9 +1,5 @@
 # Storyboards
 
-Add your three storyboards.
-
-*Tutors will download the image to view the full size persona*.
-
 ## Storyboard One
 
 <img src="sp2-media/JulieStoryboard-IC.png" alt="Storyboard One" width="1000">
