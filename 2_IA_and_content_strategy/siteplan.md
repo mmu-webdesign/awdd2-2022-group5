@@ -18,7 +18,7 @@ After completing a card sorting activity to brainstorm with the team, and utilis
 
 ## Site Plan v2
 
-<img src="sp2-media/siteplan.png" alt="Siteplan v2" width="1000">
+<img src="sp2-media/Site-Map-v2.jpg" alt="Siteplan v2" width="1000">
 
 ### Commentary
 Detail your revisions. If it helps, highlight the changes on the site plan itself.
