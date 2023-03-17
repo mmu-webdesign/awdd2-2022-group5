@@ -21,7 +21,7 @@ The first moodboard above begins by exploring the reality of working out in a gy
 <img src="sp3-media/Mood-Board-2.jpg" alt="Team members" width="1000">
 
 ### Name of team member: Sophie Norbury & Imogen Calderbank
-Explain how your personal influences and inspirations for this moodboard.
+Explain how your personal influences and inspirations for this moodboard: Another section of our website will inclusde information and how-to-guides about healthy eating. colours that are repeating within existing health eating themed images, graphics and icons are red, green and orange - these are colours that have been pulled out and will be taken into account when creating the colour palette in the style guide for the website. The style of healthy eating we will focus on will be general, well-known advice, but we will also cater our how-to-guides on healthy eating around eating to build muscle / lose weight for the users who require this, hence why we have explored images that communicate the strategy of meal preparartion. 
 
 ---
 
