@@ -23,6 +23,8 @@ After completing a card sorting activity to brainstorm with the team, and utilis
 ### Commentary
 Detail your revisions. If it helps, highlight the changes on the site plan itself.
 
+In this revision we have added an 'about us' section at the naviagtion pannel, upon clicking this the user will be taken to the sub-page of 'who we are' where we will detail who the creators of the website are and how the inspiration for our website became a reality, we will also detail how our group is passionate about the topic. we have also added a shopping tab to our footer, closer to the time when we will decide which external website we will link off to to advicse users where they can purchase gym and fitness related equipment from.
+
 ---
 
 ## Site Plan v3
