@@ -1,9 +1,5 @@
 # Personas
 
-Add your three personas.
-
-*Tutors will download the image to view the full size persona*.
-
 <!-- edit as required -->
 
 ## Persona One
