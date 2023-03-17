@@ -4,8 +4,9 @@
 
 <img src="sp2-media/JulieStoryboard-IC.png" alt="Storyboard One" width="1000">
 
-### Name of persona in this storyboard
-Provide a description and explain how this storyboard relates to the persona and your user research.
+### Name of persona in this storyboard - Julie Walters
+
+This storyboard outlines Julie's journey to achieving her fittness goals after discovering our website. She initally 
 
 ---
 
@@ -14,7 +15,7 @@ Provide a description and explain how this storyboard relates to the persona and
 <img src="sp2-media/Storyboard-NB.png" alt="Storyboard Two" width="1000">
 
 ### Name of persona in this storyboard - Emily Smith
-Provide a description and explain how this storyboard relates to the persona and your user research.
+
 This storyboard relates to the persona as it outlines the path Emily (user) will take and what has led her to our website and why she wants to use it. It's clear Emily was struggling and needed advice and guidance, further expanding on our research, this is key for Emilys age group as stability is key. The storyboard demonstrates how Emily starts her journey and how it's maintained through using our site. 
 
 ---
