@@ -6,7 +6,7 @@
 
 ### Name of persona in this storyboard - Julie Walters
 
-This storyboard outlines Julie's journey to achieving her fittness goals after discovering our website. She initally 
+This storyboard outlines Julie's journey to achieving her fittness goals after discovering our website. She initally navigates by looking at the different fitness and diet plans we offer, selecting the plans that align best to her wellbeing goals. She starts by introducing our meal plans into her lifestyle, only changing one element at a time will mean she is more likely to stick to plan. After sucessfully completeing, and enjoying, our meal plan, Julie follows one of our biweekly homme workout plans. She initally stuggles to commit to exercising biweekly, and therefore invites her friend to look at our site so that they can workout together for motivation. 6 weeks on Julie is loving her new lifestyle, and regularly check the site for updates and new fitness/ meal plans to try. As her confidence grows with home work outs, she using our 'shopping' page to buy equipment to help improve and intensify her workouts.
 
 ---
 
