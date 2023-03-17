@@ -8,7 +8,7 @@ Add a moodboard for each team member plus a final team moodboard.
 
 ## Moodboard One
 
-<img src="sp3-media/Mood-Board-1.jpg" alt="Team Member One" width="1000">
+<img src="sp3-media/Mood-Board-1.jpg" alt="Sophie Norbury" width="1000">
 
 ### Name of team member
 Explain how your personal influences and inspirations for this moodboard.
@@ -17,7 +17,7 @@ Explain how your personal influences and inspirations for this moodboard.
 
 ## Moodboard Two
 
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Mood-Board-2.jpg" alt="Sophie Norbury" width="1000">
 
 ### Name of team member
 Explain how your personal influences and inspirations for this moodboard.
