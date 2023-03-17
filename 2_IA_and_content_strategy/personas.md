@@ -25,7 +25,7 @@ Provide a description and explain how this persona was derived from your user re
 <img src="sp2-media/Liam User Persona .jpg" alt="Persona Three" width="1000">
 
 **Bob Arclid**
-Provide a description and explain how this persona was derived from your user research.
+
 
 From the research carried out, it was concluded that there is a common trend of middle aged divorced males who are in poor health and in search of methods to improve.
 In addition, Bob lives a busy lifestyle with work and fatherhood commitments and therefore, our website is suitable for providing a quick concise guide to get started on improving one's health. 
