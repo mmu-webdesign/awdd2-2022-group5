@@ -41,6 +41,6 @@ No that we had an architecture ywe liked, we tested it out with a tree testing e
 
 ### Tree testing results
 
-Illustrated summary of your findings.
+Given that a website's architecture is incredibly important for both user experience and SEO, we believe the tree testing exercise confirmed our choice of our website structuring strategy, with the aims of improving dwell time and encouraging our users to consume more of your content and explore all aspects of the site - rather than just reading one section.
 
 ---
