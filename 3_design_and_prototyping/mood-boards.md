@@ -27,7 +27,7 @@ Explain how your personal influences and inspirations for this moodboard: Anothe
 
 ## Moodboard Three
 
-<img src="sp3-media/moodboard.png" alt="Team Member One" width="1000">
+<img src="sp3-media/Moodboard 1.jpg" alt="Team Member One" width="1000">
 
 ### Name of team member: Niamh Bailey & Liam Stanier
 Explain how your personal influences and inspirations for this moodboard.
