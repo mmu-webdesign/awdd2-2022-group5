@@ -8,7 +8,7 @@ Please add at least one artefact per group member related to the exploration of 
 
 <img src="sp3-media/Mobile Phone page designs.jpg" alt="Team members" width="1000">
 
-<img src="sp3-media/.jpg" alt="Team members" width="1000">
+<img src="sp3-media/Logo-colours-experiment.jpg" alt="Team members" width="1000">
 
 ## High Fidelity mock-up
 
