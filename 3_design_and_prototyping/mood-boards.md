@@ -30,7 +30,7 @@ Explain how your personal influences and inspirations for this moodboard: Anothe
 <img src="sp3-media/Moodboard 1.JPG" alt="Team Member One" width="1000">
 
 ### Name of team member: Niamh Bailey & Liam Stanier
-Explain how your personal influences and inspirations for this moodboard.
+This moodboard demonstrates the importance of physical wellbeing as a contribution to overall health. Some of thr statistics highlight how areas such as sleep can impact your health and fitness, getting an adequate amount of sleep each night is essential to a routine. It's advised between for adults 7+ hours per night is key.The moodboard also shows the other types of fitness/ excersise: Walking, running, yoga, pilates, meditation and others. These are just as important as going to a gym. 10.000 steps a day can be a simple start to any fitness regieme. Alongside this, getting outdoors and in fresh air can also have a significant impact on mental health and increases endorphins.
 
 ---
 
