@@ -8,6 +8,8 @@ Please add at least one artefact per group member related to the exploration of 
 
 <img src="sp3-media/Mobile Phone page designs.jpg" alt="Team members" width="1000">
 
+<img src="sp3-media/.jpg" alt="Team members" width="1000">
+
 ## High Fidelity mock-up
 
 Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
