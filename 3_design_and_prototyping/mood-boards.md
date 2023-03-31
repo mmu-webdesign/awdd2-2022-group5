@@ -57,7 +57,6 @@ Explain how your personal influences and inspirations for this moodboard.
 <img src="sp3-media/Team Moodboard.jpg" alt="Team Member One" width="1000">
 
 ### Name of team member
-Explain how you combined your influences and inspirations to create a group vision through this moodboard.
-
+Explain how you combined your influences and inspirations to create a group vision through this moodboard: 
 Our team moodboard focuses on illutrating the content we want to include on our website, picking out the most important images, graphics and diagrams that communicate a meaning to the user/reader. Taking aspects from all four previous moodboards shows that our website will be reliant on images of people, so the reader can relate, plus icons and graphics to demonstrate meaning without using words. it is important to have a break in the levels to text/information we include so that the reader does not feel overwhelmed. Graphics, images and icons will be most prevelant on our homepage. In the team moodboard we have picked out our favourite colours which we believe compliment the themes we will be discussing - we will however pick our own colours, those on the moodboard have been selected for inspiration and influence purposes.  
 ---
