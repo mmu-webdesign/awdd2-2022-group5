@@ -4,7 +4,7 @@
 
 The team is carrying out usability testing on our coursework as part a web development assignment. Your co-operation is appreciated, as the exercise is invalid without user input.
 
-Team ID: 
+Team ID: awdd-2022-group5 
 
 Please read the following. If you give your consent, please sign below.
 
