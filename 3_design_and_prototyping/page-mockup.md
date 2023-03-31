@@ -7,8 +7,10 @@ You should add evidence of your group’s design process here. Begin with artefa
 Please add at least one artefact per group member related to the exploration of designs for your website.
 
 <img src="sp3-media/Mobile Phone page designs.jpg" alt="Team members" width="1000">
+Mobile Phone website design, 1 per team member as labelled.
 
 <img src="sp3-media/Logo-colours-experiment.jpg" alt="Team members" width="1000">
+Creating a logo and experimenting with what colours compliment each other.
 
 ## High Fidelity mock-up
 
