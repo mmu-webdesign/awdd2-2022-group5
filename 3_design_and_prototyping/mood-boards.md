@@ -39,7 +39,7 @@ This moodboard demonstrates the importance of physical wellbeing as a contributi
 <img src="sp3-media/Moodboard 2.JPG" alt="Team Member One" width="1000">
 
 ### Name of team member: Niamh Bailey & Liam Stanier
-Explain how your personal influences and inspirations for this moodboard.
+This moodboard looks at the theme of mental health, which we will dedicate a section of our how-to-website to. a lot of imagery surrounding mental health often include a caption or text, it is important to keep a positive outlook when talking in an instructional tone about mental health, as the topic can be sensitive to some, or all users of our page. we will use positive, warmly toned imagery to communicate a positive meaning. images on this topic don't always have to be of specicifc people, illustrations are often the most effective way of demonstrating meaning. We will tackle the content on this page with a friendly tone to appeal to all demographics.
 
 ---
 
