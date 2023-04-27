@@ -6,7 +6,7 @@ Write an introduction to your report.
 
 1. What did you do? - We asked a colleague to spend time looking at our website on a design/user friendly level, then to go into the user experience, testing the links, buttons and features we have implemented.
 2. Why did you do it? - We ensured to test our website so that the team can see how the website acts and responds to a user who hasn't contributed to the building of the website. The website must be tested to make sure that the user experience is positive, meaning that the information we convey is taken in correctly by the reader so they won't be discouraged by a webpage that potentially may be clunky.
-3. How did you do it? - 
+3. How did you do it? - We proceeded to test by
 
 ### Findings
 
