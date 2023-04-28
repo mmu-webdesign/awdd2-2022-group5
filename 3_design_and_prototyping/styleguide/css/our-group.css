@@ -1,40 +1,29 @@
-/* COLOURS */
-
-
-/* the colours for your website */
-
-
-/* delete what you don't need */
-
-
-/* use swatch 1 for your most important colour, swatch 2 for the next, and so on */
-
-.swatch-1 {
-    background: #ff9900;
+swatch-1 {
+    background: white;
 }
 
 .swatch-2 {
-    background: black;
+    background: #ED1C7A;
 }
 
 .swatch-3 {
-    background: grey;
+    background: #F470AC;
 }
 
 .swatch-4 {
-    background: orange;
+    background: #90C122;
 }
 
 .swatch-5 {
-    background: pink;
+    background: #00B7BC;
 }
 
 .swatch-6 {
-    background: purple;
+    background: #FFD000;
 }
 
 .swatch-7 {
-    background: blue;
+    background: #C73038;
 }
 
 
@@ -45,17 +34,17 @@
 /* delete the ones you don't need */
 
 .type-1 {
-    font-family: 'Monoton', cursive;
+    font-family: 'Montserrat', sans-serif;
     /* google font */
 }
 
 .type-2 {
-    font-family: avenir, arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     /* example of 'web safe' font */
 }
 
 .type-3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
@@ -69,7 +58,7 @@ a.button {
     padding: 10px 20px;
     font-weight: bold;
     text-decoration: none;
-    border: 1px solid red;
+    border: 1px solid #FFD000;
     margin-right: 10px;
     margin-bottom: 1em;
     border-radius: 0.2em;
@@ -78,17 +67,17 @@ a.button {
 
 a.button.important {
     font-size: 1.2em;
-    background: red;
+    background: #F470AC;
     color: white;
     padding: 15px 30px;
 }
 
 a.button.normal {
-    color: red;
+    color: #90C122;
 }
 
 a.button.less {
-    color: grey;
+    color: #00B7BC;
 }
 
 a.button:hover {
