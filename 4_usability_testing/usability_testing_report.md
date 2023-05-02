@@ -22,6 +22,10 @@ Detail the changes your group has decided on in response to the initial testing 
 
 Create an updated version of the page design and add this to the report.
 
+The initial testing showed us that one of the main reasons our website was lacking was due to the smaller elements of a website, which could be phrased as smaller elements which enhance the fluidity of the website, things that a more experienced set of website designers may know from the beginning due to time and experience, however, as our team has taken on website design for one of the first times, we attempted to learn as much as we could in the timeframe we were given to construct our website. 
+
+To action the outcomes of our testing, our plan is to ensure we take a double-check through our code before submission, we will check for smaller yet impactful features such as correct colours, fonts, plus text and image sizing is relevant for the area of the website it is situated. Actions we have taken from our testing sessions indicate that quality checking is vitally important. From the feedback, we will be checking the characteristics of the more visual elements of our website, ensuring that images are big enough so that they're accessible for all users. Before going live again, we will ask out team to check the links we have included, checking links means to simply 'click' the link and ensure you are taken to a working website or page. The simple action will make a big difference to the user experience.
+
 ## Results of further testing
 
 Any further testing should be evidenced (photographs, notes and actions). Tutors will not just accept _we did some more testing_.
