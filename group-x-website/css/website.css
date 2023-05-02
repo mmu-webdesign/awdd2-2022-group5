@@ -1,1 +1,130 @@
-* { border:1px solid red; }
+/* apply a natural box layout model to all elements, but allowing components to change */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+
+/* make big images fit their container */
+
+img {
+    max-width: 100%;
+    height: auto;
+}.logo-and-nav {
+   margin-bottom: 3rem;
+}
+
+.logo-and-nav__logo {
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+.logo-and-nav__links {background:#f470ac ; padding: 20px; margin:0; padding:0; display:flex; list-style-type: none; flex-wrap:wrap;}
+.logo-and-nav__links li {flex:1; display:flex; border-right:1px solid #444; justify-content: center;}
+.logo-and-nav__links a {display: block; color:white; text-decoration: none; padding: 20px;}
+.big-header {
+    background-color: #333;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: <img src="css/OriginalLogo.png">;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+.big-header__content {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}/* this .content-column code is common to a lot of these patterns */
+
+.content-column {
+    padding: 40px 20px; 
+}
+
+.content-column__content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* you can use the .editable-text class to modify the typography for the standard column of content */
+
+.editable-text img {margin: 1rem 0;}
+.editable-text h2 {margin:0; padding: 1rem 0 0.35rem 0; color:red;}
+.editable-text h3 {margin:0; padding: 1rem 0 0.35rem 0; color:maroon;}
+.editable-text p {margin:0; padding: 0 0 1rem 0;}
+/* end .content-column code *//* the CSS for both of these text and image patterns is the same */
+
+.text-image__container {
+    max-width: 1280px;
+    margin: 3rem auto;
+    padding: 1rem;
+}
+
+@media screen and (min-width:700px) {
+    .text-image__container {
+        display: flex;
+        align-items: center;
+    }
+}
+
+.left .text-image__text {
+    order: 1;
+}
+
+.text-image__text {
+    flex: 1;
+}
+
+.text-image__content {
+    flex: 1;
+}
+
+.text-image__content a {
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 0.3rem;
+    background: red;
+    margin-top: 1rem;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}.page-footer {
+    background: #333;
+    min-height: 20vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+}
+
+.page-footer a {color: yellow;}
+
+.page-footer .social-media {
+    display: flex;
+    list-style-type: none;
+}
+
+.page-footer .social-media li {
+    padding: 0 1rem;
+}   
