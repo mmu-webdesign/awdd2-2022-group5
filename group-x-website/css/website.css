@@ -1,10 +1,4 @@
 /* apply a natural box layout model to all elements, but allowing components to change */
-body {
-    font-family: sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
 html {
     box-sizing: border-box;
 }
@@ -17,6 +11,12 @@ html {
 
 
 /* make big images fit their container */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
 img {
     max-width: 100%;
@@ -34,16 +34,16 @@ img {
     background-repeat: no-repeat;
     background-position:center center;
 }
+
 .logo-and-nav__links {background:#f470ac ; padding: 20px; margin:0; padding:0; display:flex; list-style-type: none; flex-wrap:wrap;}
 .logo-and-nav__links li {flex:1; display:flex; border-right:1px solid #444; justify-content: center;}
 .logo-and-nav__links a {display: block; color:white; text-decoration: none; padding: 20px;}
 .big-header {
-    background-color: #333;
+    background-color: #00B7BC;
     min-height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: <img src="css/OriginalLogo.png">;
     background-size: cover;
     background-blend-mode: multiply;
     background-repeat: no-repeat;
