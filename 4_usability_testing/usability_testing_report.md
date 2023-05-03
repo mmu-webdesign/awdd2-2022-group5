@@ -26,7 +26,7 @@ The initial testing showed us that one of the main reasons our website was lacki
 
 To action the outcomes of our testing, our plan is to ensure we take a double-check through our code before submission, we will check for smaller yet impactful features such as correct colours, fonts, plus text and image sizing is relevant for the area of the website it is situated. Actions we have taken from our testing sessions indicate that quality checking is vitally important. From the feedback, we will be checking the characteristics of the more visual elements of our website, ensuring that images are big enough so that they're accessible for all users. Before going live again, we will ask out team to check the links we have included, checking links means to simply 'click' the link and ensure you are taken to a working website or page. The simple action will make a big difference to the user experience.
 
-<img src="sp4-media/FinalMockupV1.jpg" alt="Team members" width="1000">
+<img src="sp4-media/FinalMockupV2.jpg" alt="Team members" width="1000">
 
 ## Results of further testing
 
