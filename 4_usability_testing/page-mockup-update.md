@@ -12,4 +12,6 @@ From the first mockup in a previous stage of our project, there have been small 
 
 When refining our website, it was key that we ensure our communication is clear for all users. Due to the nature of our website it's important that we use the correct, yet general terminology. Our navigation pannel shows the changes of this, giving the user the most common unmbrella terms for our content pages, as some of the content can be sensitive, or goes into specific details.
 
+We will be continuing to include images across our website, these will include a mix of graphics and photography that fit with the colour scheme we have chosen for our website, vibrant yet friendly. This makes the website more welcoming, feedback from testing showed that images are important to the user. 
+
 <img src="sp4-media/FinalMockupV2.jpg" alt="Team members" width="1000">
