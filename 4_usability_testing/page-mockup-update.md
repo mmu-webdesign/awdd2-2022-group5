@@ -7,3 +7,5 @@ Annotate and explain the changes you have made, and tell us how these changes ma
 Inform us of any work that seems ‘out of scope’ - e.g. is too complex or would require a complete redesign.
 
 <img src="sp4-media/FinalMockupV1.jpg" alt="Team members" width="1000">
+
+<img src="sp4-media/FinalMockupV2.jpg" alt="Team members" width="1000">
