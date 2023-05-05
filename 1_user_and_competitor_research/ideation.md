@@ -2,10 +2,11 @@
 
 **Word count** 300 words maximum
 
-Describe and illustrate your ideation process. Describe the techniques use and report on the output/results.
-Has it helped you define you project? Explore a variety of ideas in a short time? Get ann agreement on the topic of your guide? Investigate possibilities?
 
-Initial Ideas - Ideation Report The following ideas have been created using a variety of ideation techniques selected by the team, we found the most effective and influential techniques to be brainstorming, brainwriting, mind mapping and the SCAMPER perspective.
+
+Initial Ideas
+
+Ideation Report The following ideas have been created using a variety of ideation techniques selected by the team, we found the most effective and influential techniques to be brainstorming, brainwriting, mind mapping and the SCAMPER perspective.
 
 - Diet & Exercise Planning
 
