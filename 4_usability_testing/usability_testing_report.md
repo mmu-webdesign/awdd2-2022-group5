@@ -51,7 +51,7 @@ Scan your completed notes as a single pdf, add to the sp4-media folder and link 
 
 ## Exit survey
 
-> Download -[Completed exit survey](sp4-media/exit-survey.pdf).
+> Download -[Completed exit survey](https://github.com/mmu-webdesign/awdd2-2022-group5/tree/master/4_usability_testing/sp4-media).
 
 Scan your completed survey as a single pdf, add to the sp4-media folder and link above.
 
