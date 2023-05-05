@@ -58,7 +58,7 @@ Scan your completed survey as a single pdf, add to the sp4-media folder and link
 
 ## Consent form(s)
 
-> Download -[Completed consent form(s)](sp4-media/exit-survey.pdf).
+> Download -[Completed consent form(s)](https://github.com/mmu-webdesign/awdd2-2022-group5/tree/master/4_usability_testing/sp4-media).
 
 Scan your completed consent form(s) as a single pdf, add to the sp4-media folder and link above.
 
