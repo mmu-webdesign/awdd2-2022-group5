@@ -4,17 +4,16 @@
 
 Write an introduction to your report.
 
-1. What did you do? - We asked individuals not part of the construction of the website and outside of the university course to spend time testing our website, this includes its features, how easy the content is to digest and the overall usability of the website.
-2. Why did you do it? - We ensured to test our website so that the team can see how the website acts and responds to a user who hasn't contributed to the building of the website. The website must be tested to make sure that the user experience is positive, meaning that the information we convey is taken in correctly by the reader so they won't be discouraged by a webpage that potentially may be clunky.
-3. How did you do it? - We proceeded to test by requesitng the individuals to try out our website on their personal devices and following that, we conducted interviews where we looked to understand the positives from a user perspective, any issues they encountered, what could be done to improve the website and any other comments they had about the website. All of our findings from our interviews were recorded as transcripts. 
+What did you do?
+We asked individuals not part of the construction of the website and outside of the university course to spend time testing our website, this includes its features, how easy the content is to digest and the overall usability of the website.
+Why did you do it?
+We ensured to test our website so that the team can see how the website acts and responds to a user who hasn't contributed to the building of the website. The website must be tested to make sure that the user experience is positive, meaning that the information we convey is taken in correctly by the reader so they won't be discouraged by a webpage that potentially may be clunky.
+How did you do it?
+We proceeded to test by requesitng the individuals to try out our website on their personal devices and following that, we conducted interviews where we looked to understand the positives from a user perspective, any issues they encountered, what could be done to improve the website and any other comments they had about the website. All of our findings from our interviews were recorded as transcripts. 
 
 ### Findings
 
-(500 words)
-
-Discuss the key issues that have been identified (positive and negative). This must closely relate to your observations (in your notes) and any exit surveys.
-
-4. What did you find?
+What did you find?
 
 As suggested in the previous section, we started by hold 1:1 testing sessions with friends or family members, following this we conducted a brief interview session discussing the usability of our website. Listed below are posoitive and negative themes which reoccured across the 4 interviews, highlighting their prominance and significance in our design.
 
