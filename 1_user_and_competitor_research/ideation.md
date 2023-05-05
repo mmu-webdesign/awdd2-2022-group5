@@ -4,9 +4,11 @@
 
 
 
-Initial Ideas
+Initial Idea Creation Progress
 
 Ideation Report The following ideas have been created using a variety of ideation techniques selected by the team, we found the most effective and influential techniques to be brainstorming, brainwriting, mind mapping and the SCAMPER perspective.
+
+Element Ideas:
 
 - Diet & Exercise Planning
 
