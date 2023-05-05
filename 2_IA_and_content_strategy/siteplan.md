@@ -29,7 +29,7 @@ In this revision we have added an 'about us' section at the naviagtion pannel, u
 
 ## Site Plan v3
 
-<img src="sp2-media/SitePlanV3.Jng" alt="Siteplan v3" width="1000">
+<img src="sp2-media/SitePlanV3.jpg" alt="Siteplan v3" width="1000">
 
 ### Commentary
 Detail your revisions. If it helps, highlight the changes on the site plan itself.
