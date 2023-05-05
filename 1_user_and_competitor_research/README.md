@@ -99,6 +99,6 @@ Analyse the 3 sites using the criteria on the Competitor Analysis document provi
 
 **The Competitor Analysis document is too complex for Markdown and is therefore supplied as an MSword document.**
 
-> Document: [competitor-analysis-Group5.docx ](competitor-analysis-Group5 FINAL VERSION.docx) provided.
+> Document: [competitor-analysis-Group5 FINAL VERSION.docx ](competitor-analysis-Group5 FINAL VERSION.docx) provided.
 
 _Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5._
