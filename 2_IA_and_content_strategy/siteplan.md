@@ -34,3 +34,5 @@ In this revision we have added an 'about us' section at the naviagtion pannel, u
 ### Commentary
 Detail your revisions. If it helps, highlight the changes on the site plan itself.
 
+Our revisions for our final site plan include confirmation of the number of webpages and what they will be titled, as well as concluding what our content features and will specifically explore. We have also amended the navigation pannel and footer pannel to ensure the most important content and links sit at the top of our page. For example, we have moved the shopping tab to the end of our navigation in the hopes the user will go there after looking through our how to webpages beforehand. We have alo amended the wording to make our website more general yet factual, to ensure we keep with a friendly yet informative website and webpages. The overview of the content and structure has now been decided as this stage.
+
