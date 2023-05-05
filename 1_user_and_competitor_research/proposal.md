@@ -1,12 +1,6 @@
 # Proposal
 
-The _italic text_ below is a guide to each section. Remove this text and add your own, retaining the headings.
-
-**Word count** 1000 words (+/- 10%) maximum
-
 ## Project summary
-
-_What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
 
 The intention of this project is to create a fully functioning website to display content in a way which is easy to digest for the user.
 
@@ -52,21 +46,26 @@ Mental Health
 
 Objectives
 
-•	What are the important areas to focus on to improve physical health and wellbeing?
+•	To show the important areas to focus on to improve physical health and wellbeing?
 
-•	Common pitfalls when trying to live a healthy lifestyle?
+•	The Common pitfalls when trying to live a healthy lifestyle?
 
-•	Examples of exercises to improve one’s physical health
+•	To demonstrate examples of exercises to improve one’s physical health
 
 •	The importance of a healthy diet and what makes a healthy diet?
 
-•	How one can better manage their mental health?
+•	To esablish how one can better manage their mental health?
 
 Goals 
 
+How will this work?
 •	Full functioning website
 
-•	Content that is easy to digest for the user 
+What if I'm a beginner? 
+•	The Content is easy to digest for the user 
+
+When will I see progress?
+•	The website will detail the steps to take to ensure progress is made
 
 
 ## Primary audience(s)
