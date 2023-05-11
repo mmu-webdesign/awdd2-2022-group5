@@ -33,7 +33,7 @@ Please find listed below the categories we shared and the results of the most po
 
 ### Introduction
 
-No that we had an architecture ywe liked, we tested it out with a tree testing exercise, initially on paper before using the Optimal Workshop Treejack (online).
+Note that we had an architecture we liked, we tested it out with a tree testing exercise, initially on paper before using the Optimal Workshop Treejack (online).
 
 ### Illustration of the architecture tested
 
