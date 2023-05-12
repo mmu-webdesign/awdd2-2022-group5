@@ -31,6 +31,10 @@ As per the above, our website has a 99 performance score and a 99 accesability s
 
 <img src="sp5-media/Evidence for Readability.png" alt="" width="1000">
 
+Using the Readability Test - WebFX tool, our website scored a 62 rating. However, the only spelling and grammar mistake detected was "BetterU" but this is invalid as this is the name for our website so it is not applicable as an erroneous entry. 
+
+
+
 ## SEO
 
 Review your metadata (Checkbot will help) including page titles, meta description, link text, use of headings, use of keywords in your text.
