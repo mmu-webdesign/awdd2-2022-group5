@@ -24,3 +24,5 @@ Homepage layout.
 <img src="sp3-media/Website-layout-2.jpg" alt="Team members" width="1000">
 
 Homepage layout with expanded navigation & footer elements.
+
+<img src="sp3-media/FinalMockupV2.jpg" alt="Team members" width="1000">
