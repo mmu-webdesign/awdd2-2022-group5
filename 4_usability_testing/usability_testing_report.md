@@ -43,7 +43,11 @@ To action the outcomes of our testing, our plan is to ensure we take a double-ch
 
 ## Results of further testing
 
-Any further testing should be evidenced (photographs, notes and actions). Tutors will not just accept _we did some more testing_.
+We further tested our site on an individual external to our groups and organisations. The user was sent the link and opened our site on their browser. We found this further testing helpful as we were able to esablish to site could work for all users and get further opinions or feedback on the site.
+
+INSERT PIC
+
+The user tested and opened the site successfully. The feedback provided was that the site was engaging and easy to use and no errors were found. 
 
 <!-- ## Notes
 
