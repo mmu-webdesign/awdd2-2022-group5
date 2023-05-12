@@ -20,7 +20,7 @@ Provide a description of any issues. If the issue has to be corrected add anothe
 
 ### Mac IOS - Safari
 
-<img src="sp5-media/ios-safari.jpg" alt="" width="">
+<img src="sp5-media/ios safari test.jpg" alt="" width="">
 
 ### Name of persona
 
