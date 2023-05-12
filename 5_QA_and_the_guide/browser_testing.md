@@ -28,4 +28,7 @@ From our research, Emillys persona as a young girl, used her iphone browser to a
 
 **Repeat to show at least on IOS and Android. Use actual phone screenshots, not desktop browsers resized or emulators**.
 
+Andriod testing: our website is compatible on an andriod (Samsung) mobile phone.
+img src="sp5-media/Picture24.png" alt="" width="1000">
+
 ---
