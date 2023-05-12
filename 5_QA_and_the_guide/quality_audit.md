@@ -5,11 +5,13 @@ Including...
 ## HTML Validation
 
 <img src="sp5-media/Evidence for HTML Validation.png" alt="" width="1000">
-As per the above snapshot from Nu Html Checker, there were no issues detected with the HTML code for our website.
+As per the above snapshot from Nu Html Checker, there were no issues detected with the HTML code for the website.
 
 ## CSS Validation
 
-Quality and efficiency.
+<img src="sp5-media/CSS Validation Evidence.png" alt="" width="1000">
+
+As per the above screenshot, there were no issues with the CSS code for the website
 
 ## Speed test (inc. optimisation of code and media)
 
