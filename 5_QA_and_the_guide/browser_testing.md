@@ -6,7 +6,7 @@
 
 ### Mac OS - Safari
 
-<img src="sp5-media/macos-safari.jpg" alt="" width="1000">
+<img src="sp5-media/Mac OS test.jpg" alt="" width="1000">
 
 ### Notes
 
