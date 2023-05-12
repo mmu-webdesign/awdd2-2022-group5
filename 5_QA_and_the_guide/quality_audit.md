@@ -19,13 +19,13 @@ As per the above screenshot, there were no issues with the CSS code for the webs
 
 <img src="sp5-media/Mobile Speed Evidence.png" alt="" width="1000">
 
-As per the above, our website on mobile, has a 93 score rating which is green on the PageSpeed Insights tool. 
+As per the above, our website on mobile, has a 93 performance score and a 99 accesability score rating which are green on the PageSpeed Insights tool. 
 
 **Desktop**
 
 <img src="sp5-media/Desktop Speed Evidence.png" alt="" width="1000">
 
-As per the above, our website has a 99 performance score which is green on the PageSpeed Insights tool. 
+As per the above, our website has a 99 performance score and a 99 accesability score rating which are green on the PageSpeed Insights tool. 
 
 ## Readability testing
 
