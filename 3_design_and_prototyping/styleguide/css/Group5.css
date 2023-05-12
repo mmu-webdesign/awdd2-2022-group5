@@ -1,0 +1,91 @@
+swatch-1 {
+    background: white;
+}
+
+.swatch-2 {
+    background: #ED1C7A;
+}
+
+.swatch-3 {
+    background: #F470AC;
+}
+
+.swatch-4 {
+    background: #90C122;
+}
+
+.swatch-5 {
+    background: #00B7BC;
+}
+
+.swatch-6 {
+    background: #FFD000;
+}
+
+.swatch-7 {
+    background: #C73038;
+}
+
+
+/* TYPOGRAPHY
+/* the typography for your website */
+
+
+/* delete the ones you don't need */
+
+.type-1 {
+    font-family: 'Montserrat', sans-serif;
+    /* google font */
+}
+
+.type-2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* example of 'web safe' font */
+}
+
+.type-3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* TEMPLATES/CODE SNIPPETS */
+
+
+/* an example of the extra code you could add - this creates some buttons */
+
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid #FFD000;
+    margin-right: 10px;
+    margin-bottom: 1em;
+    border-radius: 0.2em;
+    transition: all 0.2s ease;
+}
+
+a.button.important {
+    font-size: 1.2em;
+    background: #F470AC;
+    color: white;
+    padding: 15px 30px;
+}
+
+a.button.normal {
+    color: #90C122;
+}
+
+a.button.less {
+    color: #00B7BC;
+}
+
+a.button:hover {
+    border-color: maroon;
+    color: #222;
+}
+
+a.button.important:hover {
+    color: white;
+    background: maroon;
+}
