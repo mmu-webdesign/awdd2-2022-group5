@@ -15,7 +15,7 @@ As per the above screenshot, there were no issues with the CSS code for the webs
 
 ## Speed test (inc. optimisation of code and media)
 
-**Mobile **
+**Mobile**
 
 <img src="sp5-media/Mobile Speed Evidence.png" alt="" width="1000">
 
