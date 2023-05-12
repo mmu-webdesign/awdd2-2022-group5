@@ -4,13 +4,13 @@
 
 ## Desktop
 
-### Mac OS - Safari
+### Mac OS - Safari - First Attempt
 
 <img src="sp5-media/Mac OS test 1.jpg" alt="" width="1000">
 
-### Notes
+### Issues
 
-Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
+Originally, we found the site wasn't correct in the initial browser. As you can tell from the screenshots, the border around the logo in the center wasn't correct at first. We then changed this, updated the site and tried again. We then achieved our desired outcome and the browsr looked correct as expected, screenshot of the correct version below.
 
 <img src="sp5-media/Mac OS test.jpg" alt="" width="1000">
 
