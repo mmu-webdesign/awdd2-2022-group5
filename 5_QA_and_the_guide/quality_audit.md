@@ -4,7 +4,7 @@ Including...
 
 ## HTML Validation
 
-<img src="sp5-media/HTML Validation Evidence.png" alt="" width="1000">
+<img src="sp5-media/Evidence for HTML Validation.png" alt="" width="1000">
 
 Quality and efficiency of your code. If you have implemented code that does not validate you need to explain why.
 
