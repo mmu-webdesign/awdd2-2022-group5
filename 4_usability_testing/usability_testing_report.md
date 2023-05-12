@@ -17,16 +17,16 @@ We proceeded to test by requesitng the individuals to try out our website on the
 
 ### Findings
 
-What did you find?
+**What did you find?**
 
 As suggested in the previous section, we started by hold 1:1 testing sessions with friends or family members, following this we conducted a brief interview session discussing the usability of our website. Listed below are positive and negative themes which reoccured across the 4 interviews, highlighting their prominance and significance in our design.
 
-Positives:
+**Positives:**
 - Fun bright colours
 - Content and images were well paired
 - Good use of different page formats
 
-Negatvies:
+**Negatvies:**
 - Some links didn't work
 - Text was small and difficult to read
 - Colour contrast was poor on certain pages
