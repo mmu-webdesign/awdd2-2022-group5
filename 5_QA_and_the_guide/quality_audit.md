@@ -15,7 +15,17 @@ As per the above screenshot, there were no issues with the CSS code for the webs
 
 ## Speed test (inc. optimisation of code and media)
 
-Download speeds. Are there any _blockers_. Are images optimised?
+**Mobile **
+
+<img src="sp5-media/Mobile Speed Evidence.png" alt="" width="1000">
+
+As per the above, our website on mobile, has a 93 score rating which is green on the PageSpeed Insights tool. 
+
+**Desktop**
+
+<img src="sp5-media/Desktop Speed Evidence.png" alt="" width="1000">
+
+As per the above, our website has a 99 performance score which is green on the PageSpeed Insights tool. 
 
 ## Readability testing
 
