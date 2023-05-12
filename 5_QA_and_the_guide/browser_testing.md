@@ -6,13 +6,13 @@
 
 ### Mac OS - Safari
 
-<img src="sp5-media/Mac OS test.jpg" alt="" width="1000">
+<img src="sp5-media/Mac OS test 1.jpg" alt="" width="1000">
 
 ### Notes
 
 Provide a description of any issues. If the issue has to be corrected add another screenshot to show the fix.
 
-**Repeat with a variety of browsers**.
+<img src="sp5-media/Mac OS test.jpg" alt="" width="1000">
 
 ---
 
