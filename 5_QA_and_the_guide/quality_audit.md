@@ -29,9 +29,7 @@ As per the above, our website has a 99 performance score and a 99 accesability s
 
 ## Readability testing
 
-Test at least some of your text. Think of your type of users and the levels they would expect.
-
-Also test your grammar and spelling as this will lose you credibility (**and marks**).
+<img src="sp5-media/Readability Evidence.png" alt="" width="1000">
 
 ## SEO
 
