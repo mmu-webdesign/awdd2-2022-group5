@@ -3,15 +3,15 @@
 ## Introduction
 
 
-What did you do?
+**What did you do?**
 
 We asked individuals not part of the construction of the website and outside of the university course to spend time testing our website, this includes its features, how easy the content is to digest and the overall usability of the website.
 
-Why did you do it?
+**Why did you do it?**
 
 We ensured to test our website so that the team can see how the website acts and responds to a user who hasn't contributed to the building of the website. The website must be tested to make sure that the user experience is positive, meaning that the information we convey is taken in correctly by the reader so they won't be discouraged by a webpage that potentially may be clunky.
 
-How did you do it?
+**How did you do it?**
 
 We proceeded to test by requesitng the individuals to try out our website on their personal devices and following that, we conducted interviews where we looked to understand the positives from a user perspective, any issues they encountered, what could be done to improve the website and any other comments they had about the website. All of our findings from our interviews were recorded as transcripts. 
 
