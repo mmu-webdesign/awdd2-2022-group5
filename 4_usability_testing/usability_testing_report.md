@@ -15,17 +15,19 @@ We proceeded to test by requesitng the individuals to try out our website on the
 
 What did you find?
 
-As suggested in the previous section, we started by hold 1:1 testing sessions with friends or family members, following this we conducted a brief interview session discussing the usability of our website. Listed below are posoitive and negative themes which reoccured across the 4 interviews, highlighting their prominance and significance in our design.
+As suggested in the previous section, we started by hold 1:1 testing sessions with friends or family members, following this we conducted a brief interview session discussing the usability of our website. Listed below are positive and negative themes which reoccured across the 4 interviews, highlighting their prominance and significance in our design.
 
 Positives:
--
--
+- Fun bright colours
+- Content and images were well paired
+- Good use of different page formats
 
 Negatvies:
--
--
+- Some links didn't work
+- Text was small and difficult to read
+- Colour contrast was poor on certain pages
 
-Shortly after the interview all four interviewees were asked to take a survey based on the dicussion topics selected during interviews. On a positive start to our survey, 100% of user found the website easy to navigate and didn't faces issues nagiating between pages or different sections of the site. Although this is positive feedback, one thing we might consider is if this suggests a lack of complexity in our design, and whether more elements should therefore be added. Only 1 person disagreed that the content and images used on the website relevant, as the other 3 found them to be suitsble, therefore minimal change required here. However, we next asked 'Did you encounter any issues with the website?' to which half of the users commented on the size of the content and imagery, something we will now review and amend. This issue is especially important as it could hinder the usability and accessability of the report, especially for those with poor vision to read text, or those that rely on imagery but are unable to do so. The final two sections were grately appreciated by the team, scoring on average 4.5/5 on overall usability, and 100% of user recommending our website to a friend.
+Shortly after the interview all four interviewees were asked to take a survey based on the dicussion topics selected during interviews. On a positive start to our survey, 100% of user found the website easy to navigate and didn't faces issues navigating between pages or different sections of the site. Although this is positive feedback, one thing we might consider is if this suggests a lack of complexity in our design, and whether more elements should therefore be added. Only 1 person disagreed that the content and images used on the website relevant, as the other 3 found them to be suitsble, therefore minimal change required here. However, we next asked 'Did you encounter any issues with the website?' to which half of the users commented on the size of the content and imagery, something we will now review and amend. This issue is especially important as it could hinder the usability and accessability of the report, especially for those with poor vision to read text, or those that rely on imagery but are unable to do so. The final two sections were grately appreciated by the team, scoring on average 4.5/5 on overall usability, and 100% of user recommending our website to a friend.
 
 ## Actions
 
