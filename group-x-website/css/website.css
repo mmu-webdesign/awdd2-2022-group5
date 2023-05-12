@@ -36,7 +36,41 @@ img {
 }
 
 .logo-and-nav__links {background:#f470ac ; padding: 20px; margin:0; padding:0; display:flex; list-style-type: none; flex-wrap:wrap;}
-.logo-and-nav__links li {flex:1; display:flex; border-right:1px solid #444; justify-content: center;}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav ul li a:hover {
+	background-color: #fff;
+	color: #90C122;
+}
+
+nav ul li ul {
+	display: none;
+	position: absolute;
+	background-color: #90C122;
+	padding: 10px;
+}
+
+nav ul li:hover ul {
+	display: block;
+}
+
+nav ul li ul li {
+	display: block;
+}
+.logo-and-nav__links li {flex:1; display:flex; border-right:1px solid #90C122; justify-content: center;}
+.logo-and-nav__links h3 {color: #fff;}
 .logo-and-nav__links a {display: block; color:white; text-decoration: none; padding: 20px;}
 .big-header {
     background-color: #00B7BC;
@@ -54,7 +88,28 @@ img {
     text-align: center;
     color: white;
     text-shadow: 0 0 5px rgba(0,0,0,0.5);
-}/* this .content-column code is common to a lot of these patterns */
+}
+
+.site-header {
+    background-color: #FFD000;
+    min-height: 14vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+.site-header__content {
+    text-align: center;
+    color: #00B7BC;
+    text-shadow: 0 0 5px white;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* this .content-column code is common to a lot of these patterns */
 
 .content-column {
     padding: 40px 20px; 
@@ -63,6 +118,143 @@ img {
 .content-column__content {
     max-width: 700px;
     margin: 0 auto;
+}
+
+.content-column__content img {
+    width: 700px;
+    margin: 0 auto;
+}
+.content-column2 table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-column2 td {
+    border-top: 1px solid #ddd;
+}
+
+.content-column2 th {
+    text-align: left;
+}
+
+.content-column2 th,
+td {
+    padding: 0.6rem 0.3rem;
+}
+
+.cards {
+    padding: 10px;
+}
+
+.card-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.card-container img{
+    width: 360px;
+    height: 220px;
+}
+
+@media screen and (min-width: 700px) {
+    .cards {
+        padding: 40px;
+    }
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.a-card {
+    flex: 0 0 32%;
+    background: #90C122;
+    padding: 1rem;
+    margin-right: 1%;
+    margin-bottom: 1rem;
+}
+
+.a-card * {
+    margin: 0;
+    padding: 0;
+}
+
+.a-card a {
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 0.3rem;
+    background: #F470AC;
+    margin-top: 1rem;
+}
+
+.a-card a:hover{
+    background: #ED1C7A;
+}
+
+.full-click-cards {
+    padding: 10px;
+}
+
+.card-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 700px) {
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.fc-card {
+    flex: 0 0 32%;
+    background: #eee;
+    margin-right: 1%;
+    margin-bottom: 1rem;
+}
+
+.fc-card * {
+    margin: 0;
+    padding: 0;
+}
+
+.fc-card a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 10px 30px;
+    width: 100%;
+    min-height: 30vh;
+    overflow: hidden;
+    color: #333;
+    text-decoration: none;
+    /* cuts off extra content */
+    transition: transform 0.2s ease;
+}
+
+.fc-card a:hover {
+    transform: scale(1.1);
+}
+
+.fc-card.style-1 {
+    background-color: #dbf0ac;
+    /* or background images, etc etc */
+}
+
+.fc-card.style-2 {
+    background-color: #bde955;
+    /* or background images, etc etc */
+}
+
+.fc-card.style-3 {
+    background-color: #9fd325;
+    /* or background images, etc etc */
 }
 
 /* you can use the .editable-text class to modify the typography for the standard column of content */
@@ -96,19 +288,42 @@ img {
 
 .text-image__content {
     flex: 1;
+    padding: 20px;
 }
+
+table, th, td {
+    border: 1px solid;
+  }
+
+table {
+    border-collapse: collapse;
+  }
+
+  th {
+    text-align: center;
+  }
+
+  td {
+    text-align: left;
+  }
 
 .text-image__content a {
     display: inline-block;
     padding: 10px 30px;
     border-radius: 0.3rem;
-    background: red;
+    background: #90C122;
     margin-top: 1rem;
     color: white;
     text-decoration: none;
     font-weight: bold;
-}.page-footer {
-    background: #333;
+}
+
+.text-image__content a:hover {
+    background: #ED1C7A;
+}
+
+.page-footer {
+    background: #00B7BC;
     min-height: 20vh;
     padding: 20px;
     display: flex;
@@ -116,9 +331,13 @@ img {
     align-items: center;
     justify-content: center;
     color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.page-footer a {color: yellow;}
+.page-footer a {
+    color: #F470AC;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 .page-footer .social-media {
     display: flex;
