@@ -22,9 +22,9 @@ Originally, we found the site wasn't correct in the initial browser. As you can 
 
 <img src="sp5-media/ios safari test.jpg" alt="" width="">
 
-### Name of persona
+### Emilly's Persona
 
-Provide a description and explain how this persona was derived from your user research.
+From our research, Emillys persona as a young girl, used her iphone browser to access our site. Emilly doesn't use a laptop and uses her iphone for everything. This derived from our research as the site needed to be easy for Emilly to access on her iphone.
 
 **Repeat to show at least on IOS and Android. Use actual phone screenshots, not desktop browsers resized or emulators**.
 
