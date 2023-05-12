@@ -6,6 +6,7 @@ Including...
 
 <img src="sp5-media/Evidence for HTML Validation.png" alt="" width="1000">
 As per the above snapshot from Nu Html Checker, there were no issues detected with the HTML code for our website.
+
 ## CSS Validation
 
 Quality and efficiency.
