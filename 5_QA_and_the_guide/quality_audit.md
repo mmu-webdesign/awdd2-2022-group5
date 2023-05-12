@@ -39,4 +39,4 @@ Using the Readability Test - WebFX tool, our website scored a 62 rating. However
 
 <img src="sp5-media/SEO Results Evidence.png" alt="" width="1000">
 
-Review your metadata (Checkbot will help) including page titles, meta description, link text, use of headings, use of keywords in your text.
+The above images shows that our website scored a 50% rating from an SEO perspective,it is clear that our Page Headings and Page Descriptions need to be improved, this is something that we discuss collecively as a team, taking a lessons learned approach. 
