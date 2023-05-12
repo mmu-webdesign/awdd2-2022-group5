@@ -29,7 +29,7 @@ As per the above, our website has a 99 performance score and a 99 accesability s
 
 ## Readability testing
 
-<img src="sp5-media/Readability Evidence.png" alt="" width="1000">
+<img src="sp5-media/Evidence for Readability.png" alt="" width="1000">
 
 ## SEO
 
