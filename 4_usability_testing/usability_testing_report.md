@@ -35,9 +35,6 @@ Shortly after the interview all four interviewees were asked to take a survey ba
 
 ## Actions
 
-Detail the changes your group has decided on in response to the initial testing and any subsequent test sessions.
-
-Create an updated version of the page design and add this to the report.
 
 The initial testing showed us that one of the main reasons our website was lacking was due to the smaller elements of a website, which could be phrased as smaller elements which enhance the fluidity of the website, things that a more experienced set of website designers may know from the beginning due to time and experience, however, as our team has taken on website design for one of the first times, we attempted to learn as much as we could in the timeframe we were given to construct our website. 
 
