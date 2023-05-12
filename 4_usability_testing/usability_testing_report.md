@@ -44,7 +44,7 @@ To action the outcomes of our testing, our plan is to ensure we take a double-ch
 
 ## Results of further testing
 
-We further tested our site on an individual external to our groups and organisations. The user was sent the link and opened our site on their browser. We found this further testing helpful as we were able to esablish to site could work for all users and get further opinions or feedback on the site.
+We further tested our site on an individual external to our groups and organisations. The user was a senior web devolper in an external organisation and was reviewing our site so we could get expert feedback. The user was sent the link and opened our site on their browser. We found this further testing helpful as we were able to esablish to site could work for all users and get further opinions or feedback on the site.
 
 <img src="sp4-media/User testing IMG.jpg" alt="Further Testing Example" width="1000">
 
