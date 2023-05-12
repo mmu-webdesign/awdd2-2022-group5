@@ -2,7 +2,6 @@
 
 ## Introduction
 
-Write an introduction to your report.
 
 What did you do?
 
