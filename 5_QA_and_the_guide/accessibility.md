@@ -5,3 +5,4 @@ Our accessibility audit showed we completed the key points on the check list and
 
 Please see below for our completed checklist and comments document. 
 
+Document: [Checklist and Comments](WCAG2Checklist & Comments Doc.docx)
